@@ -1,5 +1,5 @@
 ---
-title: " ![image](/images/thesis-2.png) Thesis Project"
+title: " ![image](/images/thesis64.png) Thesis Project"
 excerpt: "Work carried out during the doctorate."
 collection: portfolio
 ---
