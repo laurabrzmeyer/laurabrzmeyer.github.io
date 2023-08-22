@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Combining Machine Learning and Behavior Analysis Techniques for Network Security"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'Network traffic attacks are increasingly common and varied, this is a big problem especially when the target network is centralized. The creation of IDS (Intrusion Detection Systems) capable of detecting various types of attacks is necessary. Machine learning algorithms are widely used in the classification of data, bringing a good result in the area of computer networks. In addition, the analysis of entropy and distance between data sets are also very effective in detecting anomalies. However, each technique has its limitations, so this work aims to study their combination in order to improve their performance and create a new intrusion detection system capable of well detect some of the most common attacks. Reliability indices will be used as metrics to the combination decision and they will be updated in each new dataset according to the decision made earlier.'
+date: 2020-03-02
+venue: '2020 International Conference on Information Networking (ICOIN)'
+paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://ieeexplore.ieee.org/document/9016500)'
+citation: 'M. L. Brzezinski Meyer and Y. Labit, "Combining Machine Learning and Behavior Analysis Techniques for Network Security," 2020 International Conference on Information Networking (ICOIN), Barcelona, Spain, 2020, pp. 580-583, doi: 10.1109/ICOIN48656.2020.9016500.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Network traffic attacks are increasingly common and varied, this is a big problem especially when the target network is centralized. The creation of IDS (Intrusion Detection Systems) capable of detecting various types of attacks is necessary. Machine learning algorithms are widely used in the classification of data, bringing a good result in the area of computer networks. In addition, the analysis of entropy and distance between data sets are also very effective in detecting anomalies. However, each technique has its limitations, so this work aims to study their combination in order to improve their performance and create a new intrusion detection system capable of well detect some of the most common attacks. Reliability indices will be used as metrics to the combination decision and they will be updated in each new dataset according to the decision made earlier.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: M. L. Brzezinski Meyer and Y. Labit, "Combining Machine Learning and Behavior Analysis Techniques for Network Security," 2020 International Conference on Information Networking (ICOIN), Barcelona, Spain, 2020, pp. 580-583, doi: 10.1109/ICOIN48656.2020.9016500.
