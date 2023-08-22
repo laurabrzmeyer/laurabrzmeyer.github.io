@@ -1,5 +1,5 @@
 ---
-title: " ![image](https://github.com/laurabrzmeyer/laurabrzmeyer.github.io/assets/23100739/f6bff02a-cd7d-4572-ab70-f6da52a2e863) Thesis Project"
+title: " ![image](/images/thesis-2.png) Thesis Project"
 excerpt: "Work carried out during the doctorate."
 collection: portfolio
 ---
