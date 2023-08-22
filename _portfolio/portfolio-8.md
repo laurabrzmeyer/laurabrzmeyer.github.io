@@ -1,5 +1,5 @@
 ---
-title: "![image](/images/3d-printer64.png) 3D Printer Project"
+title: "![image](/images/3d-printing64.png) 3D Printer Project"
 excerpt: "Work on the construction of a 3D printer."
 collection: portfolio
 ---
