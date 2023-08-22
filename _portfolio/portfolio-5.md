@@ -4,6 +4,6 @@ excerpt: "Work with the software development and maintenance team, development o
 collection: portfolio
 ---
 
-<br/><img src='/images/shearo.jpg' width="50" height="50">
+<br/><img src='/images/shear.png' width="50" height="50">
 
 This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
