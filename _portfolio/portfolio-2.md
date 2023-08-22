@@ -1,5 +1,5 @@
 ---
-title: "![image](/images/data-collection-2.png) Data Collection Project"
+title: "![image](/images/data-collection64.png) Data Collection Project"
 excerpt: "Work carried out during an intership at Renault Group."
 collection: portfolio
 ---
