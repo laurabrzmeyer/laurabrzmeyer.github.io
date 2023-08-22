@@ -20,7 +20,7 @@ Expirences
 Skills
 ------
 
-### ![image](https://github.com/laurabrzmeyer/laurabrzmeyer.github.io/assets/23100739/2c55d876-7816-40b2-aa52-d55612482fa8 =10x10) Artificial intelligence
+### <img src="https://github.com/laurabrzmeyer/laurabrzmeyer.github.io/assets/23100739/2c55d876-7816-40b2-aa52-d55612482fa8" alt="drawing" width="10"/> Artificial intelligence
 Applications of machine learning and reinforcement learning algorithms.
 
 ### Data science
