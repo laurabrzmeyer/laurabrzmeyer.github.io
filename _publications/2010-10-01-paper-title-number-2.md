@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "TSAI - Test Selection using Artificial Intelligence for the Support of Continuous Integration"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: 'The agile methodology has been increasingly deployed in the industry world, breaking the process into cycles of planning, executing, and evaluating. In the software development domain, an agile method named continuous integration is widely used to automatically integrate code changes from different developers into the same software. Then, each new build can be tested to make sure that the modifications did not interfere with the rest of the already verified code. Despite being very important, regression tests are usually the costliest part of a project. It is laborious to retest all tests of each new software version due to the time it takes to perform and often, before all tests are finished, a new software version is ready to be tested. To improve regression tests results, a selection can be done. By selecting the right tests at the right moment, the use of all test catalogs can be avoided to find faults in the software tested. The aim of this work is to develop a method to select tests to be executed for each version using artificial intelligence algorithms. Learning algorithms can find patterns and similarities between test cases to help knowing which one has a higher probability to expose a fault.'
+date: 2022-02-14
+venue: '2021 IEEE International Symposium on Software Reliability Engineering Workshops (ISSREW)'
+paperurl: 'https://ieeexplore.ieee.org/document/9700356'
+citation: 'M. L. Brzezinski Meyer, "TSAI - Test Selection using Artificial Intelligence for the Support of Continuous Integration," 2021 IEEE International Symposium on Software Reliability Engineering Workshops (ISSREW), Wuhan, China, 2021, pp. 306-309, doi: 10.1109/ISSREW53611.2021.00092.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+The agile methodology has been increasingly deployed in the industry world, breaking the process into cycles of planning, executing, and evaluating. In the software development domain, an agile method named continuous integration is widely used to automatically integrate code changes from different developers into the same software. Then, each new build can be tested to make sure that the modifications did not interfere with the rest of the already verified code. Despite being very important, regression tests are usually the costliest part of a project. It is laborious to retest all tests of each new software version due to the time it takes to perform and often, before all tests are finished, a new software version is ready to be tested. To improve regression tests results, a selection can be done. By selecting the right tests at the right moment, the use of all test catalogs can be avoided to find faults in the software tested. The aim of this work is to develop a method to select tests to be executed for each version using artificial intelligence algorithms. Learning algorithms can find patterns and similarities between test cases to help knowing which one has a higher probability to expose a fault.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](http://academicpages.github.io/files/paperSYMP.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: M. L. Brzezinski Meyer, "TSAI - Test Selection using Artificial Intelligence for the Support of Continuous Integration," 2021 IEEE International Symposium on Software Reliability Engineering Workshops (ISSREW), Wuhan, China, 2021, pp. 306-309, doi: 10.1109/ISSREW53611.2021.00092.
