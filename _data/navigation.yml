@@ -2,7 +2,7 @@
 main:
   - title: "CV"
     #url: /cv/
-    url: files/CV_Brzezinski_2022.pdf
+    url: /files/CV_Brzezinski_2022.pdf
   
   - title: "Portfolio"
     url: /portfolio/
