@@ -15,3 +15,5 @@ The prototype constructed was composed by:
 -	Arduino shield designed to this project
 
 The control system was an on-off control, because this project represents a non-linear system.The actuator is activated when the sensor detects a lower than desired temperature. It turns off when the desired point is reached. A demo is available [here](https://www.youtube.com/watch?v=6mVsjWO00_w).
+
+![image](https://github.com/laurabrzmeyer/laurabrzmeyer.github.io/assets/23100739/da3e2cc2-fa41-45c0-a398-948cd4e12b3c)
