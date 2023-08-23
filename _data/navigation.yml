@@ -10,8 +10,8 @@ main:
   - title: "Publications"
     url: /publications/
     
-  #- title: "Other"
-  #  url: /projects/
+  - title: "Other"
+    url: /projects/
     
   #- title: "Guide"
   #  url: /markdown/
