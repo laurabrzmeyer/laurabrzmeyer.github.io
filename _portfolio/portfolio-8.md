@@ -4,4 +4,6 @@ excerpt: "Work on the construction of a 3D printer."
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This project is an internal project developed at the group of electrical engineer tutorial education program (PETEEL). It aims to construct a Graber i3 3D printer. 
+
+I was responsible to the electronical setup. All the elements were connected to the Arduino’s shield and a program was created to control the printer. The actuators are: there are three motors for the positioning, one motor in the wire extrusion, a hotend that melts the ABS plastic, a fan, and a heated table.
