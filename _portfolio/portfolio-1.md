@@ -4,7 +4,7 @@ excerpt: "Work carried out during the doctorate."
 collection: portfolio
 ---
 
-Currently, I’m a PhD candidate on the domain of software testing. My work is based on the Regression Testing Problem (RTP). A regression test is used to verify if all functionalities of the software work after an introduction of a new feature. This type of test can detect regressions on the source code. However, they usually require more time to execute, so if there are a large number of regression tests, it is necessary to chose which ones will be executed in each version. To resolve the problem, we can find three big approaches in the literature [1]: prioritization, selection, and minimization.
+Currently, I’m a PhD candidate on the domain of software testing. My work is based on the Regression Testing Problem (RTP). A regression test is used to verify if all functionalities of the software work after an introduction of a new feature. This type of test can detect regressions on the source code. However, they usually require more time to execute, so if there are a large number of regression tests, it is necessary to chose which ones will be executed in each version. To resolve the problem, we can find three big approaches in the literature: prioritization, selection, and minimization.
 
 This thesis is a collaboration between Renault Group and the laboratory LAAS-CNRS (Laboratory for Analysis and Architecture of Systems). At LAAS, I’m part of the group TSF (Dependable Computing and Fault Tolerance). Fernand Cuesta is the enterprise supervisor and Hélène Waeselynck is the academic supervisor.
 
