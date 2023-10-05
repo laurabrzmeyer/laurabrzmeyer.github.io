@@ -1,8 +1,12 @@
 # main links links
 main:
-  - title: "CV"
+  - title: "CV-FR"
     #url: /cv/
-    url: /files/CV_Brzezinski_2022.pdf
+    url: /files/CV_Brzezinski_2023.pdf
+
+  - title: "CV-EN"
+    #url: /cv/
+    url: /files/CV_Brzezinski_2023_en.pdf
   
   - title: "Portfolio"
     url: /portfolio/
