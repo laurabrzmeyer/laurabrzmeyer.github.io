@@ -1,7 +1,7 @@
 ---
 title: "TSAI - Test Selection using Artificial Intelligence for the Support of Continuous Integration"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/paperISSRE
 excerpt: 'The agile methodology has been increasingly deployed in the industry world, breaking the process into cycles of planning, executing, and evaluating. In the software development domain, an agile method named continuous integration is widely used to automatically integrate code changes from different developers into the same software. Then, each new build can be tested to make sure that the modifications did not interfere with the rest of the already verified code. Despite being very important, regression tests are usually the costliest part of a project. It is laborious to retest all tests of each new software version due to the time it takes to perform and often, before all tests are finished, a new software version is ready to be tested. To improve regression tests results, a selection can be done. By selecting the right tests at the right moment, the use of all test catalogs can be avoided to find faults in the software tested. The aim of this work is to develop a method to select tests to be executed for each version using artificial intelligence algorithms. Learning algorithms can find patterns and similarities between test cases to help knowing which one has a higher probability to expose a fault.'
 date: 2022-02-14
 venue: '2021 IEEE International Symposium on Software Reliability Engineering Workshops (ISSREW)'
