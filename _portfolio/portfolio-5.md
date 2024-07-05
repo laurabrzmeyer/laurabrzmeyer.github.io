@@ -8,6 +8,8 @@ The SHIC project (Sherography for Composite Inspection) aims to develop techniqu
 
 Sherography is a non-destructive testing method that uses optics to obtain information about the interior of the materials being tested. Mirrors are used to split the laser reflected from the material into two wavefronts. Then, a piezoelectric actuator (PZT) causes a small angular displacement in one of the mirrors, making one of the wavefronts move to the side. The camera detects the two offseted images, now superimposed again, forming an image from the interference of the two waves. In this way, several out-of-phase photos are obtained.
 
-The fundamentals of digital shearography is showed in the image bellow extracted from Zhao Q, Dan X, Sun F, Wang Y, Wu S, Yang L. Digital Shearography for NDT: Phase Measurement Technique and Recent Developments. Applied Sciences. 2018; 8(12):2662. https://doi.org/10.3390/app8122662.
+The fundamentals of digital shearography is showed in the image bellow extracted from (Zhao Q. et al. 2018). 
 
 ![image](https://github.com/laurabrzmeyer/laurabrzmeyer.github.io/assets/23100739/5e49270d-1f62-4136-bb45-9d54e211540c)
+
+(Zhao Q. et al. 2018) Zhao Q, Dan X, Sun F, Wang Y, Wu S, Yang L. Digital Shearography for NDT: Phase Measurement Technique and Recent Developments. Applied Sciences. 2018; 8(12):2662. https://doi.org/10.3390/app8122662.
