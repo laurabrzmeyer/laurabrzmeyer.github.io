@@ -1,7 +1,7 @@
 ---
 title: "Combining Machine Learning and Behavior Analysis Techniques for Network Security"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/paperICOIN
 excerpt: 'Network traffic attacks are increasingly common and varied, this is a big problem especially when the target network is centralized. The creation of IDS (Intrusion Detection Systems) capable of detecting various types of attacks is necessary. Machine learning algorithms are widely used in the classification of data, bringing a good result in the area of computer networks. In addition, the analysis of entropy and distance between data sets are also very effective in detecting anomalies. However, each technique has its limitations, so this work aims to study their combination in order to improve their performance and create a new intrusion detection system capable of well detect some of the most common attacks. Reliability indices will be used as metrics to the combination decision and they will be updated in each new dataset according to the decision made earlier.'
 date: 2020-03-02
 venue: '2020 International Conference on Information Networking (ICOIN)'
