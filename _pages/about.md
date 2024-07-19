@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+Ensuring that systems work properly and preventing failures has always been my passion! 
+My first contact with the field was in 2016, at the Metrology and Automation Laboratory of the Federal University of Santa Catarina (USFC). Although I had already studied the subject, it was during my summer internship at LAAS-CNRS in 2019 that I started to really apply artificial intelligence methods and delve deeper into the subject. During my PhD at Renault Group, I worked on the regression testing problematic. Throughout my academic career, I have been able to acquire various scientific and technical skills, as well as other types of expertise, such as interpersonal, team management and communication abilities. My most valuable competencies are dynamism, curiosity, willingness to learn and a strong interest in research. I'm highly motivated to work in the field of new technologies and especially innovative approaches in the IT world. I want to be an integral part of building future technologies.
 
 Formation
 ------
