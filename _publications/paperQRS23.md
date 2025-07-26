@@ -12,4 +12,4 @@ The optimization of regression testing (RT) has been widely studied in the liter
 
 [Download paper here](http://academicpages.github.io/files/paperQRS.pdf)
 
-Recommended citation: M. L. Brzezinski Meyer, H. Waeselynck and F. Cuesta, "A Case Study on the “Jungle” Search for Industry-Relevant Regression Testing," 2023 IEEE 23rd International Conference on Software Quality, Reliability, and Security (QRS), Chiang Mai, Thailand, 2023, pp. 382-393, doi: 10.1109/QRS60937.2023.00045.
+Recommended citation: M. L. Brzezinski Meyer, H. Waeselynck and F. Cuesta, “A Case Study  on the “Jungle” Search for Industry-Relevant Regression Testing,” 2023  IEEE 23rd International Conference on Software Quality, Reliability, and Security (QRS), Chiang Mai, Thailand, 2023, pp. 382-393, doi: 10.1109/QRS60937.2023.00045. https://ieeexplore.ieee.org/document/10366626
