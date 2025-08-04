@@ -83,11 +83,11 @@ author:
   name             : "Maria Laura Brzezinski Meyer"
   avatar           : "photo_id.jpg"
   bio              : "PhD in Automation and Computing Science"
-  location         : ""
-  employer         : ""
+  # location         : ""
+  # employer         : ""
   pubmed           : 
   googlescholar    : 
-  email            : "laurabrzmeyer@gmail.com"
+  # email            : "laurabrzmeyer@gmail.com"
   researchgate     :  "https://www.researchgate.net/profile/Maria-Brzezinski-Meyer-2"
   uri              :
   bitbucket        :
