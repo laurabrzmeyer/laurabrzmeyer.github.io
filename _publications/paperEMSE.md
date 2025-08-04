@@ -12,4 +12,4 @@ With numerous regression testing (RT) methods available in the literature, it is
 
 *First published in Empirical Software Engineering, 30, 152, 2025 by Springer Nature.*
 
-[Download paper here](http://laurabrzmeyer.github.io/files/paperEMSE.pdf)
+[See paper here](https://rdcu.be/eyV1E)
